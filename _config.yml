@@ -1,0 +1,24 @@
+timezone: Asia/Calcutta
+permalink: :title
+
+markdown: kramdown
+
+author:
+  name: Sachin Sachin
+  email: sachin@jsrockstar.com
+
+# Custom URL Git Repo URL
+baseurl: ''
+url: http://localhost:4000
+
+# Default Git Repo URL
+# baseurl: http://vaibhavkanwal.com
+# url: http://vaibhavkanwal.github.io
+
+# Localhost Repo URL
+# baseurl: ''
+# url: http://host.vaibhavkanwal.com:4000
+
+# Localhost Repo URL
+# baseurl: ''
+# url: http://localhost:4000

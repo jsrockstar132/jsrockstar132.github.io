@@ -1,0 +1,15 @@
+---
+layout: default
+title: Recent Posts
+---
+
+    <ul class="recent-blog-posts">
+
+	    {% for post in site.posts do %}
+	    <li>
+	    	<h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+	    	<p>{{ post.excerpt }}</p>
+	    </li>
+	    {% endfor %}
+
+    </ul>

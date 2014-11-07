@@ -1,0 +1,7 @@
+# Sitemap
+Sitemap: http://vaibhavkanwal.com/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Disallow: /scss/
+Disallow: /css/

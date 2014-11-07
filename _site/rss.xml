@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sachin Sachin</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Fri, 07 Nov 2014 13:07:45 +0530</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2014 13:07:45 +0530</lastBuildDate>
+
+    
+    <item>
+      <title>How I design in the browser and how you can too</title>
+      <link>http://localhost:4000/design-in-the-browser-prototype-using-grunt</link>
+      <guid isPermaLink="true">http://localhost:4000/design-in-the-browser-prototype-using-grunt</guid>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        &lt;p&gt;Writing markup to translate designs into code is a time consuming process. It is not uncommon to have the designs completed before coding even begins. This approach has served us well until now.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-is-ongoing&quot;&gt;Design is ongoing&lt;/h2&gt;
+
+&lt;p&gt;I have found myself going back to the drawing board to come up with a new approach often, not only does this adds to the time but discarding previous code is not the most pleasant experience. &lt;/p&gt;
+
+&lt;p&gt;The continuous feedback from various channels - data analytics, usage statistics and feature enhancements demands a cohesive effort to make refinements and tweaks to the design. The buildup of unforeseen changes in code often leads to increased development time specially when different teams have to be mobilised to work together.&lt;/p&gt;
+
+&lt;p&gt;It makes sense to design in the browser which reduces the friction between a design &amp;amp; prototype. Essentially, one can design in code. A prototyping process thus becomes essential where you can think freely and execute them as you go. &lt;/p&gt;
+
+&lt;h2 id=&quot;wireframes-over-designs&quot;&gt;Wireframes over designs&lt;/h2&gt;
+
+&lt;p&gt;A project, feature, screen; regardless of the task at hand requires structure in content and the hierarchy in elements that will compose it. A Wireframes thus helps establish the preference order and its priority.&lt;/p&gt;
+
+&lt;p&gt;Designs change. Moreover, a design may include visual elements of style and aesthetics that are more prone to changes due to their subjective nature. Personal tastes and preferences of the people involved with the project also effects the final outcomes. &lt;/p&gt;
+
+&lt;p&gt;A Wireframe on the other hand conveys meaningful information unaffected by visual ornaments. &lt;/p&gt;
+
+&lt;p&gt;I’ve myself successfully followed this approach on both personal projects and at work. The result is encouraging. &lt;/p&gt;
+
+&lt;h2 id=&quot;the-approach-to-prototyping&quot;&gt;The approach to prototyping&lt;/h2&gt;
+
+&lt;p&gt;Web Applications can benefit immensely from prototyping. The HTML, CSS, JS is compiled on runtime using one of the various templating languages (for markup) and pre-processors (for CSS) and injected in your browsing as you proceed. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create components for common widgets both in HTML and CSS.&lt;/li&gt;
+  &lt;li&gt;Use any client of server side templating (Twig, Liquid, Swig, EJB, Jade, Handlebars etc) to create modular and maintainable markup ready for production. &lt;/li&gt;
+  &lt;li&gt;Use any pre-processor (Sass, Less, Stylus etc) to compile your stylesheets&lt;/li&gt;
+  &lt;li&gt;Use API stubs with temporary JSON data for your components. &lt;/li&gt;
+  &lt;li&gt;Inject HTML/CSS/JS instantly as you code your designs ready with the required data without dummy placeholders. &lt;/li&gt;
+  &lt;li&gt;Continuous testing for every device with auto-refresh on desktop, mobile and tablets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;starter-kit---use-mine&quot;&gt;Starter Kit - Use mine!&lt;/h2&gt;
+
+&lt;p&gt;I am hesitant to recommend any particular framework since every project is unique and the amount of time that goes into learning the framework negates the benefit. Sometimes customisation and extending the framework might need some more time investment of time. Documentation may be missing or incomplete. &lt;/p&gt;
+
+&lt;p&gt;The best ways to create a prototype is to use raw technologies and weave together a workable structure that works for you and your project. I recommend using Grunt to automate your workflow. &lt;/p&gt;
+
+&lt;p&gt;I released my own &lt;a href=&quot;https://github.com/vaibhavkanwal/PrototypingOnSteroids&quot;&gt;Prototyping starter kit&lt;/a&gt; earlier, aptly named - &lt;a href=&quot;http://vaibhavkanwal.github.io/PrototypingOnSteroids/&quot;&gt;Prototyping on Steroids.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to use, distribute and modify it. I am keen to know how it benefits your prototyping process. 
+Any suggestions and fork requests are welcome! &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The source is provided on Github. I am actively adding more features as I use and improve this for my own personal and side projects. I use the said workflow at work and for my side projects. If you encounter any bugs, please file a issue request on Github.&lt;/em&gt;&lt;/p&gt;
+
+
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Dating made easy - thoughts on THRILL</title>
+      <link>http://localhost:4000/thrill-dating-app-redesign-concept</link>
+      <guid isPermaLink="true">http://localhost:4000/thrill-dating-app-redesign-concept</guid>
+      <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        &lt;p&gt;I’ve been exploring &lt;a href=&quot;http://www.thrillapp.com/&quot;&gt;Thrill - the dating app&lt;/a&gt; for India and it’s been a rather interesting social experiment. I felt there was room for improvisation in the Version 1.0 of the app and made a mockup trying to better show the profile screen. &lt;/p&gt;
+
+&lt;p&gt;On a Saturday afternoon after having spent some 3 weeks with the application, I was without any potential “match”. I was quick to conclude that the &lt;strong&gt;User Experience&lt;/strong&gt; was the culprit standing between me and my potential date, undeterred I set out to improve the Profile View. &lt;/p&gt;
+
+&lt;h2 id=&quot;after-redesigning-profile-for-better-usability&quot;&gt;After redesigning profile for better Usability&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/thrill_app/thrill_before_after.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I made some changes to the then Version 1.0 :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Moved over the primary action items from the Menu over to the Profile Screen.&lt;/li&gt;
+  &lt;li&gt;Added swipe functionality to the display picture to see more profile pictures.&lt;/li&gt;
+  &lt;li&gt;Reused the space obtained from #2 to make the Location and Match Rating more prominent.&lt;/li&gt;
+  &lt;li&gt;Moved the Categories of similar interest up so they are discoverable. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The folks at Thrill were kind enough to share their feedback and appreciation and assured me they were already working on a Version 2.0 for the app and promised to launch a phenomenal new update.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/thrill_app/josh_thrill.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since then Thrill has launched with a revamped design though radically different from how I had imagined it at that time. It is good to see continuous work being done in this space. &lt;/p&gt;
+
+&lt;p&gt;The Version 2.0 has been unsuccessful in redeeming me of my past sins and I can still be found spending Saturday afternoons trying to respond to phantom notifications from Thrill. It is disturbing to see your network carrier coming up with SMS notifications. &lt;/p&gt;
+
+&lt;p&gt;I am already working in stealth mode for a Version 3.0 sketch (Yes! Until next time … )&lt;/p&gt;
+
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Redesigning Tradus.com</title>
+      <link>http://localhost:4000/redesigning-tradus</link>
+      <guid isPermaLink="true">http://localhost:4000/redesigning-tradus</guid>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        &lt;div class=&quot;container&quot;&gt;
+               
+    &lt;div class=&quot;headline blogPost__headline&quot;&gt;
+    	&lt;h4 class=&quot;subheading blogPost__subheading noMargin&quot;&gt;
+    		Saying NO to Responsive Design &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; finding your design mojo
+    	&lt;/h4&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;p&gt;It&#39;s early 2014 and we&#39;ve been busy in making your online shopping experience easier, quicker &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; more pleasant. There&#39;s so much exciting stuff happening at Tradus that we&#39;d love to share with you.&lt;/p&gt;
+    
+    &lt;p&gt;To make it shopper friendly &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; to appeal to our growing number of mobile users who love to shop from their smartphones, we launched a new mobile web app. We went a step further and redesigned Tradus.com.&lt;/p&gt;
+    
+    &lt;p class=&quot;highlight&quot;&gt;It is fresh, clean &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; cheerful which makes your experience more enjoyable.&lt;/p&gt;
+     
+    &lt;p&gt;In this preliminary post, we&#39;ll share the process behind the whole redesign saga. The author insisted we break this post into different articles for the sake of brevity. We decided it was a great idea to do series on our prototyping &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; designing workflow.&lt;/p&gt;
+    
+&lt;/div&gt; &lt;!--[/container]--&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+
+&lt;div class=&quot;headline blogPost__headline&quot;&gt;
+        
+        &lt;h2 class=&quot;title blogPost__title&quot;&gt;Understanding different Mediums&lt;/h2&gt;
+        &lt;h4 class=&quot;subheading blogPost__subheading&quot;&gt;On designing for desktops &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; devices of the post-PC generation &lt;/h4&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;The sketches started out on paper and eventually made their way to a wireframing tool like Balsamiq Mockups. Our focus from the beginning was towards a mobile led design &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; development. We discussed, designed and worked towards integration of our building blocks yet something was amiss. It just did not feel right. We were spending too much time iterating over designs which were thought to have been completed. &lt;/p&gt;
+&lt;p&gt;We soon realised that there was nothing wrong with the designs. We were trying to solve the wrong problem.&lt;/p&gt;
+
+&lt;p&gt;We learned that the amount of information required for the buyer to make an informed decision was essentially the same on both Desktop &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; mobile devices. However, it made little sense to squeeze in the all the content structures to fit into the small mobile estate as the expectations for a person surfing from the comfort of his Home/Office Desktop are vastly different than those surfing on a tablet in a coffee shop. &lt;/p&gt;
+
+&lt;ul&gt;
+	
+		&lt;li&gt;Desktops allow the luxury of having advertisements, promotional offers &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; other useful information related to the product while the same may look unappealing and distracting on a mobile device&lt;/li&gt;
+		&lt;li&gt; There exists a large majority of potential buyers running lower end mobile devices which must not be left out in the process of building &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; optimizing for higher end device akin to iPhone, iPads &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; Galaxy S4 etc.&lt;/li&gt;
+		&lt;li&gt;On one end of the spectrum you have these amazing touch controlled, fast, responsive devices with beautifully large screens to allow seamless interaction between the user and the system, while on the other end there are small, under-powered, gesture-less feature phones which must make their way to a successful transaction. &lt;/li&gt;
+		&lt;li&gt;The ubiquitous nature of the web makes it affordable to create a pleasant experience for a regular user &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; an immersive rewarding one for an evolved mobile afficianado&lt;/li&gt;
+	
+	&lt;/ul&gt;
+
+&lt;h2 class=&quot;title blogPost__title&quot;&gt;Starting with Responsive Design&lt;/h2&gt;
+&lt;h4 class=&quot;subheading blogPost__subheading&quot;&gt;Stumbling on real-world problems&lt;/h4&gt;
+
+&lt;p&gt;Our initial layouts worked on different mobile screens and looked beautiful. It was interesting to see how the different components communicated with the ecosystem of the medium. &lt;/p&gt;
+
+&lt;p&gt;We decided to use 4 major breakpoints :&lt;/p&gt;
+
+&lt;div class=&quot;pure-g-u&quot;&gt;
+	&lt;div class=&quot;pure-u-1-2&quot;&gt;
+				&lt;ol&gt;
+					&lt;li&gt;320px&lt;/li&gt;
+					&lt;li&gt;480px&lt;/li&gt;
+					&lt;li&gt;768px&lt;/li&gt;
+					&lt;li&gt;1024px&lt;/li&gt;
+				&lt;/ol&gt;
+				
+			&lt;/div&gt;&lt;!--
+	
+	--&gt;&lt;div class=&quot;pure-u-1-2&quot;&gt;
+					&lt;img style=&quot;margin:-50px 0;&quot; src=&quot;http://localhost:4000/assets/rwd_silhouette.jpg&quot; /&gt;
+				&lt;/div&gt;
+	
+&lt;/div&gt;
+
+	&lt;p&gt;Our designs thus worked for a majority of phones that had support for Media Queries. We had been able to create a functional, well designed and efficient flow from the Landing Page/Home Screen to the listing pages leading to successful conversion. &lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;p&gt;It did not take much time to see the shortcomings of this approach. E-commerce allows opportunities for cross-selling, promotions and comparisons between products &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; different sellers - which are not effectively utilized on a small screen. &lt;/p&gt;
+	
+	&lt;p&gt;In order to take advantage of increasing screen estate, we had to find other ways of presenting this information. Responsive suddenly felt restrictive and we were running into trade-offs between performance &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; marketing potential.&lt;/p&gt;
+	
+	&lt;p&gt;The opportunity to cross-sell different products based on past purchases, proximity to sellers or popular choices which is easy to do on a large screen suddenly became challenging. Trying to shrink-fit the components made for larger views (think banners) led to bad design decisions.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;p&gt;We had to come up with a better way to organise our catalogue which was not held back by screen resolutions but instead offered value to the user.&lt;/p&gt;
+	
+	&lt;/div&gt; &lt;!--[/container]--&gt;
+
+&lt;video style=&quot;background:none; min-height:480px; width:100%;&quot; autoplay loop controls poster=&quot;http://localhost:4000/assets/tradus_desktop_teaser_FALLBACK.jpg&quot;&gt;
+&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_desktop_teaser.mp4&quot; type=&quot;video/mp4&quot;/&gt;
+&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_desktop_teaser.webm&quot; type=&quot;video/webm&quot;/&gt;
+&lt;img src=&quot;http://localhost:4000/assets/tradus_desktop_teaser_FALLBACK.jpg&quot; /&gt;
+&lt;/video&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+	
+	&lt;h2 class=&quot;title blogPost__title&quot;&gt;Moving ahead with RESS&lt;/h2&gt;
+    &lt;h4 class=&quot;subheading blogPost__subheading&quot;&gt;Responsive Design with Server Side Components&lt;/h4&gt;
+    
+    &lt;div style=&quot;overflow:hidden&quot;&gt;
+    
+    	&lt;div style=&quot;width:50%; float:left;&quot;&gt;
+            	
+            &lt;p&gt;We dropped the fully responsive approach in favour of &lt;a href=&quot;http://mobile.smashingmagazine.com/2013/10/08/responsive-website-design-with-ress/&quot; rel=&quot;nofollow&quot;&gt;RESS&lt;/a&gt; and made changes necessary to accommodate our mobile users and offer a full experience to desktop counterparts. Using this new approach we are able to fully embrace m-commerce without compromising usability on small screen devices. &lt;/p&gt;
+            
+            &lt;p&gt;With this new found wisdom, we were able to march ahead and redesign &lt;strong&gt;search list view&lt;/strong&gt;, &lt;strong&gt;product view&lt;/strong&gt; &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; &lt;strong&gt;mobile checkout flow&lt;/strong&gt; which focused on single hand operation on a portable mobile device while our desktop experiences do not shy away from using the extra pixels available to them. &lt;/p&gt;
+            
+            &lt;p&gt;We extensively used &lt;a href=&quot;http://twig.sensiolabs.org/&quot; rel=&quot;nofollow&quot;&gt;Twig templates&lt;/a&gt; to separate out mobile &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; desktop specific markup components. We also benefited from &lt;a href=&quot;http://sass-lang.com/&quot; rel=&quot;nofollow&quot;&gt;Sass&lt;/a&gt; by making our stylesheets more modular. &lt;/p&gt;
+            
+            &lt;p class=&quot;highlight&quot;&gt;&lt;s&gt;In the coming posts, we will share our prototyping process.&lt;/s&gt; &lt;a href=&quot;http://localhost:4000/design-in-the-browser-prototype-using-grunt/&quot;&gt;Check out my Prototyping Starterkit.&lt;/a&gt;&lt;/p&gt;
+
+    	&lt;/div&gt;
+
+    	&lt;div style=&quot;width:50%; float:left;&quot;&gt;
+    		&lt;video style=&quot;background:none; width:100%; height:580px;&quot; autoplay loop controls poster=&quot;http://localhost:4000/assets/tradus_mobile_teaser_FALLBACK.jpg&quot;&gt;
+				&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_mobile_teaser.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+				&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_mobile_teaser.webm&quot; type=&quot;video/webm&quot; /&gt;
+				&lt;img src=&quot;http://localhost:4000/assets/tradus_mobile_teaser_FALLBACK.jpg&quot; /&gt;
+			&lt;/video&gt;
+    	&lt;/div&gt;
+    	
+    &lt;/div&gt;
+    
+&lt;/div&gt; &lt;!--[/container]--&gt;
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Valuing creativity</title>
+      <link>http://localhost:4000/valuing-creativity</link>
+      <guid isPermaLink="true">http://localhost:4000/valuing-creativity</guid>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        &lt;blockquote&gt;&lt;em&gt;Picasso is sitting in the park, sketching. A woman walks by, recognizes him, runs up to him and pleads with him to draw her portrait. He&#39;s in a good mood, so he agrees and starts sketching. A few minutes later, he hands her the portrait. The lady is ecstatic, she gushes about how wonderfully it captures the very essence of her character, what beautiful, beautiful work it is, and asks how much she owes him. &quot;$5,000, madam,&quot; says Picasso. The lady is taken aback, outraged, and asks how that&#39;s even possible given it only took him 5 minutes. Picasso looks up and, without missing a beat, says: &quot;No, madam, it took me my whole life.&quot;&lt;/em&gt;&lt;/blockquote&gt;
+
+The above anecdote captures the true essence of creative work. You can not value creativity by the time the craftsman takes to complete it, rather its the amount of time and effort that went into making him good enough for that purpose.
+
+In the same light, prospective buyers have often quizzed me on my professional fee, considering that it should not take me more than &#39; N hours &#39;  as per their estimate. I have at times refused prospective customers who value my work based on their scale of time.
+
+Involved in creative work in the Web industry, I can whole heartedly endorse the thought that your work&#39;s value should rest on your determined factors and not someones idea of time.
+
+&lt;em&gt;Is creativity an outcome of an intelligent mind which deserves much more?&lt;/em&gt;
+&lt;small&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/worqshop/6290722997/&quot;&gt;Photo Credit &lt;/a&gt;&lt;/p&gt;&lt;/small&gt;
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>The day I almost ordered a Pizza online</title>
+      <link>http://localhost:4000/dominos-india-pizza-order-online</link>
+      <guid isPermaLink="true">http://localhost:4000/dominos-india-pizza-order-online</guid>
+      <pubDate>Fri, 20 Apr 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        I am quite a foodie and when the taste buds steer up the fire in me, I don&#39;t mind washing down a few slices of pizza with some nice drink.
+
+This Friday however wasn&#39;t so great. The folks at Dominos India have been running an online only coupon code - FRIFRK50 valid every Friday.
+
+
+I received the coupon via Email with a ridiculously small font at the end that said :
+&lt;blockquote&gt;Valid only on orders placed online at http://www.dominos.co.in/&lt;/blockquote&gt;
+&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt; &lt;em&gt;: The Dominos guys called to apologize and asked if I wanted to give an order on phone. They also said the issue is now being fixed. &lt;/em&gt;&lt;/span&gt;
+
+So, I went online at Dominos India to place an order using their online cart.Now, how difficult can ordering a pizza online simply be?
+
+Well, I found it out the hard way. I spent 30 mins trying to place an order with the not-so-great online system and it seemed to deflect all my attempts to get the address registered online. Ok. I decided to choose Pick Up instead of Home Delivery and the checkout failed at the confirmation stage.
+
+No worries. I called up their store here at Ashok Vihar, Delhi where I live and I was given the advice you&#39;r familiar with when calling Tech support - &quot;Please restart your computer and check back in 30mins to see if things are resolved.&quot; Super! Now, I have nothing against restarting my computer but seriously? Dominos? Waddup?
+
+&lt;img class=&quot;alignnone  wp-image-286&quot; title=&quot;Dominos&quot; src=&quot;http://vaibhavkanwal.com/wp/wp-content/uploads/2012/04/Dominos.png&quot; alt=&quot;&quot; width=&quot;588&quot; height=&quot;234&quot; /&gt;
+
+As expected, nothing came out of this exercise and I found my humble self on phone with the manager of Dominos, Ashok Vihar, Delhi.
+&lt;blockquote&gt;&lt;em&gt;&quot;We can not take your order sir. Its meant for online only.&quot; &lt;/em&gt;
+
+&lt;em&gt;&quot;I am sorry.&quot;&lt;/em&gt;
+
+&lt;em&gt;&quot;I can not help you out. I can forward your problem to out head IT department but unfortunately, I can not accept the online only coupon on phone.&quot;&lt;/em&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;That&#39;s all! I hung up.&lt;/p&gt;
+
+&lt;em&gt;What do you think is the way out here? This has been the case since the last two months but I finally decided to make this video and let Dominos know that it doesn&#39;t work that way. It would be great if you could SHARE this so that somebody else can have their pizza delivered on time. &lt;/em&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;small&gt;&lt;a href=&quot;http://www.flickr.com/photos/nycblondieandbrownie/&quot;&gt;Photo Credit&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Hindsights - The Best Speech Ever</title>
+      <link>http://localhost:4000/hindsights-the-best-speech-ever-guy-kawasaki</link>
+      <guid isPermaLink="true">http://localhost:4000/hindsights-the-best-speech-ever-guy-kawasaki</guid>
+      <pubDate>Sat, 11 Feb 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        I would like to share a great speech by Guy Kawasaki - Hindsights, 1995
+
+Embedded is a link to one of the most beautiful speeches ever and by the time you finish reading the short &amp; crisp text. You&#39;ll be more than happy to have found it. I am not into reading speeches but this one is different. Anyone who has ever been to school, college or has ever been a student would be able to relate to it perfectly. 
+
+Below are some 10 mins of awesomeness by Guy Kawasaki. 
+
+&lt;strong&gt;Watch. Learn. Share. &lt;/strong&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://youtu.be/lPJ1mwVheNs&quot;&gt;http://youtu.be/lPJ1mwVheNs&lt;/a&gt;&lt;/p&gt;
+  
+&lt;/object&gt;
+
+&lt;h3&gt;The 10 things Kawasaki wants you to know&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Live off your parents as long as possible.&lt;/li&gt;
+&lt;li&gt;Pursue joy, not happiness.&lt;/li&gt;
+&lt;li&gt;Challenge the known and embrace the unknown.&lt;/li&gt;
+&lt;li&gt;Learn to speak a foreign language, play a musical instrument, and play non-contact sports.&lt;/li&gt;
+&lt;li&gt;Continue to learn.&lt;/li&gt;
+&lt;li&gt;Learn to like yourself or change yourself until you can like yourself.&lt;/li&gt;
+&lt;li&gt;Don’t get married too soon.&lt;/li&gt;
+&lt;li&gt;Play to win and win to play.&lt;/li&gt;
+&lt;li&gt;Obey the absolutes.&lt;/li&gt;
+&lt;li&gt;Enjoy your family and friends before they are gone.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;em&gt;If you liked it, you might be interested to read more stuff by Guy Kawasaki on his blog - &lt;a href=&quot;http://blog.guykawasaki.com/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;How to change the World&lt;/a&gt;&lt;/em&gt;
+
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Making the Web more accessible &amp; friendly</title>
+      <link>http://localhost:4000/making-the-web-more-accessible-friendly</link>
+      <guid isPermaLink="true">http://localhost:4000/making-the-web-more-accessible-friendly</guid>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        I have come to realize that :
+
+  &lt;ol&gt;
+    &lt;li&gt;Websites are funny.&lt;/li&gt;
+    &lt;li&gt;Design is functional&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;em&gt;Everything else is fluff&lt;/em&gt;.
+
+There are visually attractive designs and then there are functional designs. The difference between the two can be perceptually deceptive. It takes a little bit of time to distinguish a good design from an efficient one. In my search for an efficient design paradigms I have come across various fancy terms like - &lt;strong&gt;Responsive&lt;/strong&gt;, &lt;strong&gt;Adaptive&lt;/strong&gt;, &lt;strong&gt;Progressive&lt;/strong&gt; , &lt;strong&gt;Fluid&lt;/strong&gt; etc
+
+A good design offers beautiful &lt;strong&gt;user experience (UX)&lt;/strong&gt;. Its easy to use and flows &lt;em&gt;intuitively&lt;/em&gt;. The way it looks is old school. The way it &lt;span style=&quot;text-decoration: underline;&quot;&gt;feels&lt;/span&gt; is more important for anyone to be able to connect with the experience. When you are able to offer an immersive experience for your visitor - that becomes a good design.
+
+&lt;h3&gt;Guidelines for a Good Design&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;em&gt;Think&lt;/em&gt; from the perspective of the user&lt;/li&gt;
+	&lt;li&gt;YOU are &lt;em&gt;not&lt;/em&gt; the user&lt;/li&gt;
+	&lt;li&gt;Design using a &lt;em&gt;Mobile First&lt;/em&gt; Approach&lt;/li&gt;
+	&lt;li&gt;Make it universal&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;Don&#39;t assume&lt;/em&gt; things on your users behalf&lt;/li&gt;
+	&lt;li&gt;Test on different platforms&lt;/li&gt;
+	&lt;li&gt;Rinse. Repeat&lt;/li&gt;
+&lt;/ul&gt;
+I am on my way to acquire a new skill for the year 2012. You can call it Responsive, Adaptive, Fluid whatever. I&#39;ll just call it &lt;em&gt;functional&lt;/em&gt;.
+
+&lt;em&gt;Are you designing for the growing number of platforms and devices? What&#39;s your approach? Feel free to share if you have any comments. &lt;/em&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;small&gt;Photo Credit - &lt;a href=&quot;http://www.flickr.com/photos/mammaoca2008/5725123659/in/photostream/&quot; target=&quot;_blank&quot;&gt;Flickr&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>http://localhost:4000/progress-after-ear-surgery-tympanoplasty-recovery</link>
+      <guid isPermaLink="true">http://localhost:4000/progress-after-ear-surgery-tympanoplasty-recovery</guid>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        Its been over 20 days since my &lt;a title=&quot;Hope &amp;amp; Hearing&quot; href=&quot;http://localhost:4000/tympanoplasty-mastoidectomy/&quot;&gt;ear surgery&lt;/a&gt; and I am happy to say that I am recovering well.
+
+Its not as quick as I had anticipated however my doctor thinks its satisfactory. Healing is a gradual process or so, I have learned.
+&lt;h3&gt;The Good stuff&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;I have resumed my normal routine and have joined college again.&lt;/li&gt;
+	&lt;li&gt;I am able to work without any discomfort or issues.&lt;/li&gt;
+	&lt;li&gt;Pain &amp;amp; swelling post surgery have all subsided and my ear looks just fine&lt;/li&gt;
+	&lt;li&gt;I should be able to hear again from operated ear in about 45 days time&lt;/li&gt;
+	&lt;li&gt;The cotton swabs and bandages are all off.&lt;/li&gt;
+	&lt;li&gt;The sutures have healed and there&#39;s no scar! yay!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;The Bad stuff&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Ear discharge still persists and needs cleaning up every few hours or so&lt;/li&gt;
+	&lt;li&gt;Its a little annoying to keep cleaning up your ear but I guess that&#39;s part of the recovery process too.&lt;/li&gt;
+	&lt;li&gt;Although not being able to hear from one side is not much of an issue, it needs a little getting used to in college where you need to listen to friends,folks and sometimes even the professors.&lt;/li&gt;
+&lt;/ul&gt;
+In all I am happy with my progress. I did not experience any major issues and it all fell in place.
+
+Each day was an improvement and made me feel better. Although, I do have to admit the first week was a little uncomfortable due to the discomfort and mild pain from time to time.
+
+&lt;em&gt;I am hoping to be able to hear again in the next few weeks. All the best to me!&lt;/em&gt;
+
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Hope &amp; Hearing</title>
+      <link>http://localhost:4000/tympanoplasty-mastoidectomy</link>
+      <guid isPermaLink="true">http://localhost:4000/tympanoplasty-mastoidectomy</guid>
+      <pubDate>Wed, 18 Jan 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        I remember being a teenager going daily for my hourly swimming sessions. It was fun. The scorching summer months in Northern India meant me spending a large part of my afternoon playing with &lt;strong&gt;water&lt;/strong&gt; and &lt;em&gt;lots of it&lt;/em&gt;. I also recall getting frequent ear infections as a result of &lt;em&gt;water entering my left ear&lt;/em&gt;. I used to wonder why it was only my LEFT ear at that time however was quick enough to forget after a short antibiotic course of medicines.
+
+The same continued for a good part of my pre teen &amp;amp; early teen years. I can faintly recall my decision to stop my favorite sport, but mostly it was the frequent ear infections and we happily blamed the not-good-enough water and life went on. I took up another sport Tennis this time and spent a healthy part of my teen years playing Tennis all year round from 2002 - 2009. Ear? All well. Done. Forgotten.
+
+&lt;h3&gt;Unexpected Surgery&lt;/h3&gt;
+Fast Forward 5 years. Few weeks before 2011 ended, I had some discharge in the same left ear and I promptly scheduled an appointment with my ENT. I was hopping it to be a regular infection just like previous times and a course on antibiotics would help me relieve me of my familiar pain. Thankfully, it did however I was informed this time that there existed a &lt;strong&gt;perforation&lt;/strong&gt; in the &lt;strong&gt;tympanic membrane&lt;/strong&gt;. That&#39;s medical speak for &quot;hole in the ear drum&quot;
+
+I was amused and wondered if it was all result of my previous experiences with water almost a decade back but that was history and we had to move forward. I was advised a course of antibiotics to help stop and remove infection, followed by a &lt;em&gt;surgery&lt;/em&gt; - &lt;strong&gt;Tympanoplasty&lt;/strong&gt; to &lt;em&gt;fix the perforation&lt;/em&gt; that existed in my left ear
+&lt;h3&gt;Prognosis&lt;/h3&gt;
+The following month after my semester exams were done with, I spent the next weeks taking second, third &amp;amp; fourth opinions on state of my ear. In all, it was concluded by all doctors that surgery was the only definitive treatment with a success rate of 90%. I felt disconnected from all that was happening inside my ear and from the doctors because I for one, was in no pain. My infection had been eradicated but was told that the only cure was a surgery. Without which, I had a high probability of catching it again exposing myself to the high spectrum of risks each time, should it happen.
+&lt;h3&gt;Risks&lt;/h3&gt;
+I was told to undergo &lt;strong&gt;Tympanoplasty&lt;/strong&gt; &amp;amp; &lt;strong&gt;Mastoidectomy&lt;/strong&gt;. Tympanoplasty is surgery to reconst the ear-drum while Mastoidectomy is surgery to remove cells in the hollow, air-filled spaces in the skull behind the ear.
+
+The risks if I delayed could rage from :
+&lt;ul&gt;
+	&lt;li&gt;Changes in taste&lt;/li&gt;
+	&lt;li&gt;Dizziness&lt;/li&gt;
+	&lt;li&gt;Hearing loss&lt;/li&gt;
+	&lt;li&gt;Noises in the ear&lt;/li&gt;
+	&lt;li&gt;facial nerve injury&lt;/li&gt;
+&lt;/ul&gt;
+Interesting as it may be, the risks or complications resulting due to the surgery were also the same.
+
+I remember joking with a friend of mine what could happen if the doc operating on my ear was a sudden sneeze or cough. He would be like, Oops! Sorry. The surgery went well but you might not be able to taste much of anything because I had to sneeze or Wow! you got yourself a singing ear.
+Ridiculous forced humor aside, I decided to go for the surgery on 13 January 2012, Friday
+&lt;h3&gt;Day of the Surgery&lt;/h3&gt;
+I remember getting ready early morning on the day of my scheduled surgery. Not eating / drinking anything from past midnight had me feeling hungry and excited. It was something new for me and I was hoping everything would turn out well.
+
+I remember being led away by the surgeon coordinating the operation and the team of people who were to operate on my left ear. I happily said Bye to my mom and dad and walked away to the Operation Theater. I particularly, remember remarking &quot;This looks scary&quot; as I entered the OT and the surgeon made a quick remark - &quot;Scared? Be a man. We&#39;ll take good care of you. It&#39;ll be fine&quot; .
+
+My instant observations were large OT with numerous microscopes and medical instruments hanging from the ceiling. A little green stretcher with a head rest which seemed to have been prepared for my arrival. I was laid down and covered with some blankets so I felt warm and cozy. The OT felt a bit cold which I assume could have been because of my fear or the winter season. I lay there and the preparations started. One guy stuck sensors on my chest and torso while another placed a Sphygmomanometer to monitor my pulse rates. One Doc shaved the left side of my head around the left ear giving me a mushroom cut on the side. The doctor was friendly and made sure I was comfortable.  I had a woman anesthetist walk in greeting me and asking me lots of questions about me in general so as to distract me while she pocked me with a needle in my hand. It was then I realized, it was TIME.
+
+I don&#39;t recall much after some sharp pain in one of my hand as the anesthesia worked its way through intravenously. Somewhere as the thoughts meandered across my mind and I convinced myself to feel the effects of anesthesia. In a few moments, I passed out.
+
+I remember walking up with a headache, confusion and LOTS of let-me-sleep-some-more feeling. I had a nurse come in drop some water droplets from the dropper onto my lips. I felt good. My lips felt dry and water seemed different as it moistened my lips and mouth. Just a few drops and not more. My surgeon came in, called my dad and asked me if I wanted to talk. I remember hearing my Dad on the speakerphone and me replying &quot;Dad, I want to sleep, let me sleep&quot; and some incoherent babble before I again passed out.
+
+I had large bandage around my head with lots of padding over the left ear. I was discharged from the hospital the same day in the evening after the effects of anesthesia subsided. Below is how I looked after the event was over. This one&#39;s 4 hours after the surgery.
+
+&lt;p class=&quot;alignCenter&quot; &gt;&lt;img src=&quot;http://localhost:4000/assets/Ear-Surgery.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Afterthoughts&lt;/h3&gt;
+That&#39;s a long post you&#39;ve been reading! My surgery went fine and I expect to recover within the next 4 weeks. I have been told that my hearing would be back within the next 6 - 8 weeks and that I can continue normal routine after just 7 days.
+
+I will share my progress as I go through the post-operative period. Hopefully, if you came here Googling to find/read more on Tympanoplasty/Mastoidectomy, the above should provide a first hand experience. I will post more of my experience with the surgery and after care in the coming week which should address some common concerns and enable fellow future operation seekers to have a better understanding of the operation and the process.
+
+Don&#39;t worry. 2012 is going to be Awesome!
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>Year 2012 : Resolutions or Goals?</title>
+      <link>http://localhost:4000/year-2012-resolutions-or-goals</link>
+      <guid isPermaLink="true">http://localhost:4000/year-2012-resolutions-or-goals</guid>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        The past year has been eventful. I accomplished some goals that I had set for myself while some remain unfulfilled. Like every year, some promises were kept others forgotten. I am happy to note that on a whole 2011 shaped rather nice. Professionally, I added some new skills to my armor. I learned. I am wiser than I was last year and I am more content with myself that I ever was.
+
+&lt;h3&gt;The Prophecy&lt;/h3&gt;
+I will try and resist the rge to declare the list of things I will accomplish in the coming year. I think its unhealthy to confine yourself within a preplanned agenda. Nevertheless, I will list somethings which are my priority at the moment. Hopefully, as the year progresses, I will be able to tick them off gradually or maybe discover some more. 
+
+&lt;ul&gt;
+	&lt;li&gt;Devote more time to iOS Development&lt;/li&gt;
+	&lt;li&gt;Spend more days/week in at the Club&lt;/li&gt;
+	&lt;li&gt;Get better at jQuery&lt;/li&gt;
+	&lt;li&gt;Break for a vacation around some Beach&lt;/li&gt;
+	&lt;li&gt;Learn at-least 5 new web related skills&lt;/li&gt;
+	&lt;li&gt;Eat Healthy&lt;/li&gt;
+	&lt;li&gt;Procrastinate less&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Goals or Resolutions&lt;/h3&gt;
+I am not sure if the above items are part of my yearly goals or New Year resolutions. I forbid myself to classify them into any particular category. For now, I just look forward to working my way through the list.
+
+&lt;em&gt;If you are reading this, let me know if you think I am slipping. Remind me of my all-in-the-public view article on my not-yet-popular blog. I might keep up. Happy 2012 :)&lt;/em&gt;
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Photo Credit - &lt;a title=&quot;Happy 2012&quot; href=&quot;http://www.flickr.com/people/hochingliorigami/&quot; target=&quot;_blank&quot;&gt;lili35 via Flickr&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+        
+        </description>
+      
+      
+
+    </item>
+    
+    <item>
+      <title>The Diminishing Coffee principal</title>
+      <link>http://localhost:4000/the-diminishing-coffee-principal</link>
+      <guid isPermaLink="true">http://localhost:4000/the-diminishing-coffee-principal</guid>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0530</pubDate>
+      <author>sachin@jsrockstar.com (Sachin Sachin)</author>
+      <description>
+      
+      	<![CDATA[    
+
+		  <p></p>
+		  
+        ]]> 
+        
+        &lt;h3&gt;The Renaissance&lt;/h3&gt;
+While leisurely preparing for some examination the next day, I made myself comfortable. Before sitting down to make my first genuine effort to go through the course notes. I decided to make some Coffee before I surrendered myself to the eve of the examination procedure.
+&lt;blockquote&gt;I follow the protocol religiously.&lt;/blockquote&gt;
+It starts with &lt;strong&gt;meticulous&lt;/strong&gt; &lt;em&gt;planning&lt;/em&gt; and organization by collecting whatever notes I can find that resemble the course syllabi in the coming exam. I then discard some notes on the following criteria :
+&lt;ul&gt;
+	&lt;li&gt;Can not be done&lt;/li&gt;
+	&lt;li&gt;This doesn&#39;t look too important.&lt;/li&gt;
+&lt;/ul&gt;
+I am then left with an abridged version of the supposed syllabi which I potentially hope to go through and understand just enough so I could replicate the same scriptures and manuscripts with due diligence the next day. Most of the time I am partly successful. I say partly because anyone could mistake it for the &lt;a href=&quot;http://en.wikipedia.org/wiki/Gospel&quot;&gt;Gospels&lt;/a&gt;. The resemblance can be uncanny except a few subtle differences around the subject of focus.
+
+&lt;h3&gt;Etymology&lt;/h3&gt;
+The Coffee as pointed earlier, sits pretty on the glass table patiently waiting for me to take my initial sips. The interesting bit I realized while sipping the beverage was that there lies a &lt;strong&gt;pattern&lt;/strong&gt;, nothing like the ordinary which was begging me to unmask the truth emerging from the Coffee vapors. I startled on a sudden realization that the Coffee Beans had &lt;strong&gt;bestowed&lt;/strong&gt; me with. It was time to share it with the world. It was my prerogative to let every other Java-sipping-Starbucks-nut know what the &lt;strong&gt;Coffee Bean lord&lt;/strong&gt; wanted me to know.
+
+I thus formulated &lt;strong&gt;The Diminishing Coffee principal&lt;/strong&gt; on a dark cold night, in the middle of my ongoing &lt;em&gt;Master of Computer Applications&lt;/em&gt; examinations. Was it just a coincidence that my next morning&#39;s  paper was a disaster? I think not. The paper sucked :)
+&lt;h3&gt;The Diminishing Coffee principal&lt;/h3&gt;
+The beverage in question is pipping hot initially, the mere mortal that I am, only manage to take a few sips. As the time goes on the sipping becomes more frequent as the delicious liquid cools of slowly allowing me to take gallops which earlier would have easily burnt my throat. Before the &lt;strong&gt;halfway&lt;/strong&gt;, the time stands still, beyond which I am no longer a slave to the fleeting time, I can lift my cuppa and merrily gulp it all down at once. No more waiting or sipping in slow motion. My vertically gyrating Adam&#39;s Apple is a testament to how quickly I can fill myself up.
+&lt;blockquote&gt;&lt;strong&gt;Therefore, there exists a time beyond which its easy enough to accomplish whatever task you wanted to accomplish only if you kept trying and were patient enough to be persistent.&lt;/strong&gt;&lt;/blockquote&gt;
+Now, the above sounds a total disaster but then I thought I&#39;ll apply my new found wisdom to some practical aspects from my everyday life.
+
+&lt;strong&gt;Computer Science Education in the Software&lt;/strong&gt;
+
+As soon as a technology, concept, idea, process becomes part of the Academic Curriculum. The time advantage is lost. Initially, imagine this as the &lt;em&gt;halfway&lt;/em&gt; &lt;strong&gt;before&lt;/strong&gt; Coffee reached its midpoint. The going was interesting, required effort and it was much more lucrative for the professionals or people involved. Now, that it has been introduced in the academic circles, we have factory manufactured assembly lines of students coming out with knowledge on the same subject matter in question. There exists competitive advantage no more. It doesn&#39;t remain a lucrative concept, idea, process anymore. It becomes a &lt;strong&gt;norm&lt;/strong&gt;. So professionals working on such technologies are part of a cattle herd. There remains nothing professional or specialized anymore.
+
+&lt;em&gt;I write this today, on the day my exams got over. Early morning while my Coffee cup slowly approaches the &lt;strong&gt;halfway&lt;/strong&gt; again when I&#39;ll be able to consume it fast enough or perhaps get myself some more coffee. Next Semester? Wash. Rinse. Repeat.
+&lt;/em&gt;
+        
+        </description>
+      
+      
+
+    </item>
+    
+
+  </channel> 
+</rss>

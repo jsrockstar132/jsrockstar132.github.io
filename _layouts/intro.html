@@ -1,0 +1,19 @@
+{% include header/header.html %}
+
+	{% if {{page.intro.text}} %}
+		<div class="intro-txt"><div class="wrapper"><h2>{{page.intro.text}}</h2></div></div>
+	{% endif %}
+
+	{% if page.title %} <h2 class="special-headline"><span>{{ page.title }}</span></h2> {% endif %}
+
+	<div class="wrapper">
+
+		<section class="content">
+
+			{{ content }}
+		
+		</section>
+
+		{% include footer/footer.html %}
+
+	</div> <!-- [/wrapper] -->

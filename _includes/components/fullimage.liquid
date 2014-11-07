@@ -1,0 +1,5 @@
+{% if page.fullimage %}
+
+	<div class="fullimage" style="background-image:url('{{ site.url }}{{ site.baseurl }}{{ page.fullimage.src }}'); {% if page.fullimage.position %} background-position: {{ page.fullimage.position }}; {% endif %}" {% if page.fullimage.alt %} title="{{ page.fullimage.alt }}"{% endif %} /></div>
+
+{% endif %}
