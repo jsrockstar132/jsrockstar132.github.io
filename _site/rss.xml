@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sachin Sachin</title>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 07 Nov 2014 13:07:45 +0530</pubDate>
-    <lastBuildDate>Fri, 07 Nov 2014 13:07:45 +0530</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2014 13:14:01 +0530</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2014 13:14:01 +0530</lastBuildDate>
 
     
     <item>
       <title>How I design in the browser and how you can too</title>
-      <link>http://localhost:4000/design-in-the-browser-prototype-using-grunt</link>
-      <guid isPermaLink="true">http://localhost:4000/design-in-the-browser-prototype-using-grunt</guid>
+      <link>/design-in-the-browser-prototype-using-grunt</link>
+      <guid isPermaLink="true">/design-in-the-browser-prototype-using-grunt</guid>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -80,8 +80,8 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
     
     <item>
       <title>Dating made easy - thoughts on THRILL</title>
-      <link>http://localhost:4000/thrill-dating-app-redesign-concept</link>
-      <guid isPermaLink="true">http://localhost:4000/thrill-dating-app-redesign-concept</guid>
+      <link>/thrill-dating-app-redesign-concept</link>
+      <guid isPermaLink="true">/thrill-dating-app-redesign-concept</guid>
       <pubDate>Sat, 17 May 2014 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -98,7 +98,7 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
 
 &lt;h2 id=&quot;after-redesigning-profile-for-better-usability&quot;&gt;After redesigning profile for better Usability&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/thrill_app/thrill_before_after.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/thrill_app/thrill_before_after.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I made some changes to the then Version 1.0 :&lt;/p&gt;
 
@@ -111,7 +111,7 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
 
 &lt;p&gt;The folks at Thrill were kind enough to share their feedback and appreciation and assured me they were already working on a Version 2.0 for the app and promised to launch a phenomenal new update.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/thrill_app/josh_thrill.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/thrill_app/josh_thrill.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Since then Thrill has launched with a revamped design though radically different from how I had imagined it at that time. It is good to see continuous work being done in this space. &lt;/p&gt;
 
@@ -128,8 +128,8 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
     
     <item>
       <title>Redesigning Tradus.com</title>
-      <link>http://localhost:4000/redesigning-tradus</link>
-      <guid isPermaLink="true">http://localhost:4000/redesigning-tradus</guid>
+      <link>/redesigning-tradus</link>
+      <guid isPermaLink="true">/redesigning-tradus</guid>
       <pubDate>Mon, 27 Jan 2014 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -200,7 +200,7 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
 			&lt;/div&gt;&lt;!--
 	
 	--&gt;&lt;div class=&quot;pure-u-1-2&quot;&gt;
-					&lt;img style=&quot;margin:-50px 0;&quot; src=&quot;http://localhost:4000/assets/rwd_silhouette.jpg&quot; /&gt;
+					&lt;img style=&quot;margin:-50px 0;&quot; src=&quot;/assets/rwd_silhouette.jpg&quot; /&gt;
 				&lt;/div&gt;
 	
 &lt;/div&gt;
@@ -221,10 +221,10 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
 	
 	&lt;/div&gt; &lt;!--[/container]--&gt;
 
-&lt;video style=&quot;background:none; min-height:480px; width:100%;&quot; autoplay loop controls poster=&quot;http://localhost:4000/assets/tradus_desktop_teaser_FALLBACK.jpg&quot;&gt;
-&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_desktop_teaser.mp4&quot; type=&quot;video/mp4&quot;/&gt;
-&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_desktop_teaser.webm&quot; type=&quot;video/webm&quot;/&gt;
-&lt;img src=&quot;http://localhost:4000/assets/tradus_desktop_teaser_FALLBACK.jpg&quot; /&gt;
+&lt;video style=&quot;background:none; min-height:480px; width:100%;&quot; autoplay loop controls poster=&quot;/assets/tradus_desktop_teaser_FALLBACK.jpg&quot;&gt;
+&lt;source src=&quot;/assets/videos/tradus_desktop_teaser.mp4&quot; type=&quot;video/mp4&quot;/&gt;
+&lt;source src=&quot;/assets/videos/tradus_desktop_teaser.webm&quot; type=&quot;video/webm&quot;/&gt;
+&lt;img src=&quot;/assets/tradus_desktop_teaser_FALLBACK.jpg&quot; /&gt;
 &lt;/video&gt;
 
 &lt;div class=&quot;container&quot;&gt;
@@ -242,15 +242,15 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
             
             &lt;p&gt;We extensively used &lt;a href=&quot;http://twig.sensiolabs.org/&quot; rel=&quot;nofollow&quot;&gt;Twig templates&lt;/a&gt; to separate out mobile &lt;span class=&quot;amp&quot;&gt;&amp;amp;&lt;/span&gt; desktop specific markup components. We also benefited from &lt;a href=&quot;http://sass-lang.com/&quot; rel=&quot;nofollow&quot;&gt;Sass&lt;/a&gt; by making our stylesheets more modular. &lt;/p&gt;
             
-            &lt;p class=&quot;highlight&quot;&gt;&lt;s&gt;In the coming posts, we will share our prototyping process.&lt;/s&gt; &lt;a href=&quot;http://localhost:4000/design-in-the-browser-prototype-using-grunt/&quot;&gt;Check out my Prototyping Starterkit.&lt;/a&gt;&lt;/p&gt;
+            &lt;p class=&quot;highlight&quot;&gt;&lt;s&gt;In the coming posts, we will share our prototyping process.&lt;/s&gt; &lt;a href=&quot;/design-in-the-browser-prototype-using-grunt/&quot;&gt;Check out my Prototyping Starterkit.&lt;/a&gt;&lt;/p&gt;
 
     	&lt;/div&gt;
 
     	&lt;div style=&quot;width:50%; float:left;&quot;&gt;
-    		&lt;video style=&quot;background:none; width:100%; height:580px;&quot; autoplay loop controls poster=&quot;http://localhost:4000/assets/tradus_mobile_teaser_FALLBACK.jpg&quot;&gt;
-				&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_mobile_teaser.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-				&lt;source src=&quot;http://localhost:4000/assets/videos/tradus_mobile_teaser.webm&quot; type=&quot;video/webm&quot; /&gt;
-				&lt;img src=&quot;http://localhost:4000/assets/tradus_mobile_teaser_FALLBACK.jpg&quot; /&gt;
+    		&lt;video style=&quot;background:none; width:100%; height:580px;&quot; autoplay loop controls poster=&quot;/assets/tradus_mobile_teaser_FALLBACK.jpg&quot;&gt;
+				&lt;source src=&quot;/assets/videos/tradus_mobile_teaser.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+				&lt;source src=&quot;/assets/videos/tradus_mobile_teaser.webm&quot; type=&quot;video/webm&quot; /&gt;
+				&lt;img src=&quot;/assets/tradus_mobile_teaser_FALLBACK.jpg&quot; /&gt;
 			&lt;/video&gt;
     	&lt;/div&gt;
     	
@@ -266,8 +266,8 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
     
     <item>
       <title>Valuing creativity</title>
-      <link>http://localhost:4000/valuing-creativity</link>
-      <guid isPermaLink="true">http://localhost:4000/valuing-creativity</guid>
+      <link>/valuing-creativity</link>
+      <guid isPermaLink="true">/valuing-creativity</guid>
       <pubDate>Mon, 04 Jun 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -297,8 +297,8 @@ Involved in creative work in the Web industry, I can whole heartedly endorse the
     
     <item>
       <title>The day I almost ordered a Pizza online</title>
-      <link>http://localhost:4000/dominos-india-pizza-order-online</link>
-      <guid isPermaLink="true">http://localhost:4000/dominos-india-pizza-order-online</guid>
+      <link>/dominos-india-pizza-order-online</link>
+      <guid isPermaLink="true">/dominos-india-pizza-order-online</guid>
       <pubDate>Fri, 20 Apr 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -346,8 +346,8 @@ As expected, nothing came out of this exercise and I found my humble self on pho
     
     <item>
       <title>Hindsights - The Best Speech Ever</title>
-      <link>http://localhost:4000/hindsights-the-best-speech-ever-guy-kawasaki</link>
-      <guid isPermaLink="true">http://localhost:4000/hindsights-the-best-speech-ever-guy-kawasaki</guid>
+      <link>/hindsights-the-best-speech-ever-guy-kawasaki</link>
+      <guid isPermaLink="true">/hindsights-the-best-speech-ever-guy-kawasaki</guid>
       <pubDate>Sat, 11 Feb 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -396,8 +396,8 @@ Below are some 10 mins of awesomeness by Guy Kawasaki.
     
     <item>
       <title>Making the Web more accessible &amp; friendly</title>
-      <link>http://localhost:4000/making-the-web-more-accessible-friendly</link>
-      <guid isPermaLink="true">http://localhost:4000/making-the-web-more-accessible-friendly</guid>
+      <link>/making-the-web-more-accessible-friendly</link>
+      <guid isPermaLink="true">/making-the-web-more-accessible-friendly</guid>
       <pubDate>Wed, 08 Feb 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -444,8 +444,8 @@ I am on my way to acquire a new skill for the year 2012. You can call it Respons
     
     <item>
       <title>Progress</title>
-      <link>http://localhost:4000/progress-after-ear-surgery-tympanoplasty-recovery</link>
-      <guid isPermaLink="true">http://localhost:4000/progress-after-ear-surgery-tympanoplasty-recovery</guid>
+      <link>/progress-after-ear-surgery-tympanoplasty-recovery</link>
+      <guid isPermaLink="true">/progress-after-ear-surgery-tympanoplasty-recovery</guid>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -456,7 +456,7 @@ I am on my way to acquire a new skill for the year 2012. You can call it Respons
 		  
         ]]> 
         
-        Its been over 20 days since my &lt;a title=&quot;Hope &amp;amp; Hearing&quot; href=&quot;http://localhost:4000/tympanoplasty-mastoidectomy/&quot;&gt;ear surgery&lt;/a&gt; and I am happy to say that I am recovering well.
+        Its been over 20 days since my &lt;a title=&quot;Hope &amp;amp; Hearing&quot; href=&quot;/tympanoplasty-mastoidectomy/&quot;&gt;ear surgery&lt;/a&gt; and I am happy to say that I am recovering well.
 
 Its not as quick as I had anticipated however my doctor thinks its satisfactory. Healing is a gradual process or so, I have learned.
 &lt;h3&gt;The Good stuff&lt;/h3&gt;
@@ -490,8 +490,8 @@ Each day was an improvement and made me feel better. Although, I do have to admi
     
     <item>
       <title>Hope &amp; Hearing</title>
-      <link>http://localhost:4000/tympanoplasty-mastoidectomy</link>
-      <guid isPermaLink="true">http://localhost:4000/tympanoplasty-mastoidectomy</guid>
+      <link>/tympanoplasty-mastoidectomy</link>
+      <guid isPermaLink="true">/tympanoplasty-mastoidectomy</guid>
       <pubDate>Wed, 18 Jan 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -540,7 +540,7 @@ I remember walking up with a headache, confusion and LOTS of let-me-sleep-some-m
 
 I had large bandage around my head with lots of padding over the left ear. I was discharged from the hospital the same day in the evening after the effects of anesthesia subsided. Below is how I looked after the event was over. This one&#39;s 4 hours after the surgery.
 
-&lt;p class=&quot;alignCenter&quot; &gt;&lt;img src=&quot;http://localhost:4000/assets/Ear-Surgery.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;alignCenter&quot; &gt;&lt;img src=&quot;/assets/Ear-Surgery.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Afterthoughts&lt;/h3&gt;
 That&#39;s a long post you&#39;ve been reading! My surgery went fine and I expect to recover within the next 4 weeks. I have been told that my hearing would be back within the next 6 - 8 weeks and that I can continue normal routine after just 7 days.
@@ -557,8 +557,8 @@ Don&#39;t worry. 2012 is going to be Awesome!
     
     <item>
       <title>Year 2012 : Resolutions or Goals?</title>
-      <link>http://localhost:4000/year-2012-resolutions-or-goals</link>
-      <guid isPermaLink="true">http://localhost:4000/year-2012-resolutions-or-goals</guid>
+      <link>/year-2012-resolutions-or-goals</link>
+      <guid isPermaLink="true">/year-2012-resolutions-or-goals</guid>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>
@@ -597,8 +597,8 @@ I am not sure if the above items are part of my yearly goals or New Year resolut
     
     <item>
       <title>The Diminishing Coffee principal</title>
-      <link>http://localhost:4000/the-diminishing-coffee-principal</link>
-      <guid isPermaLink="true">http://localhost:4000/the-diminishing-coffee-principal</guid>
+      <link>/the-diminishing-coffee-principal</link>
+      <guid isPermaLink="true">/the-diminishing-coffee-principal</guid>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0530</pubDate>
       <author>sachin@jsrockstar.com (Sachin Sachin)</author>
       <description>

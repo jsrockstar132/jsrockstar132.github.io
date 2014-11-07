@@ -9,7 +9,7 @@ author:
 
 # Custom URL Git Repo URL
 baseurl: ''
-url: http://localhost:4000
+url: ''
 
 # Default Git Repo URL
 # baseurl: http://vaibhavkanwal.com
