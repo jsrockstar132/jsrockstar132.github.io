@@ -59,7 +59,7 @@ I am hesitant to recommend any particular framework since every project is uniqu
 
 The best ways to create a prototype is to use raw technologies and weave together a workable structure that works for you and your project. I recommend using Grunt to automate your workflow. 
 
-I released my own [Prototyping starter kit](https://github.com/vaibhavkanwal/PrototypingOnSteroids) earlier, aptly named - [Prototyping on Steroids.](http://vaibhavkanwal.github.io/PrototypingOnSteroids/)
+I released my own [Prototyping starter kit](https://github.com/sachin/PrototypingOnSteroids) earlier, aptly named - [Prototyping on Steroids.](http://sachin.github.io/PrototypingOnSteroids/)
 
 Feel free to use, distribute and modify it. I am keen to know how it benefits your prototyping process. 
 Any suggestions and fork requests are welcome! 

@@ -12,12 +12,12 @@ baseurl: ''
 url: ''
 
 # Default Git Repo URL
-# baseurl: http://vaibhavkanwal.com
-# url: http://vaibhavkanwal.github.io
+# baseurl: http://sachinsaluja.com
+# url: http://sachinsaluja.github.io
 
 # Localhost Repo URL
 # baseurl: ''
-# url: http://host.vaibhavkanwal.com:4000
+# url: http://host.sachinsaluja.com:4000
 
 # Localhost Repo URL
 # baseurl: ''
