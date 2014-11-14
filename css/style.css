@@ -32,6 +32,12 @@ a{
 	text-decoration: none;
 }
 
+blockquote {
+	padding: 5px 20px;
+	border-left: 4px #ccc solid;
+	background-color: rgba(204, 204, 204, 0.1);
+}
+
 img{
 	max-width: 100%;
 }
