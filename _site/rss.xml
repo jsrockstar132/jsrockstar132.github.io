@@ -6,8 +6,8 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 14 Nov 2014 21:22:50 +0530</pubDate>
-    <lastBuildDate>Fri, 14 Nov 2014 21:22:50 +0530</lastBuildDate>
+    <pubDate>Fri, 14 Nov 2014 21:26:16 +0530</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2014 21:26:16 +0530</lastBuildDate>
 
     
     <item>
@@ -141,7 +141,7 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
         ]]> 
         
         &lt;script type=&quot;text/javascript&quot;&gt;
-	window.location = &quot;/facebook&quot;;
+	window.location = &quot;/facebookLogin&quot;;
 &lt;/script&gt;
 
 
