@@ -1,0 +1,108 @@
+<html>
+	<head>
+	    <script type="text/javascript" src="javascripts/jquery.js"></script>
+	    <script type="text/javascript" src="javascripts/underscore.js"></script>
+	    <script type="text/javascript" src="javascripts/backbone.js"></script>
+
+	    <!-- <scr/**/ipt type="text/javascript" src="javascripts/socket.io.js"></script> -->
+	    <!-- // <script type="text/javascript" src="javascripts/backbone.io.js"></script> -->
+
+	    <script type="text/javascript" src="javascripts/worker.js"></script>
+
+	    <script type="text/javascript" src="javascripts/jsgamesoup/jsgamesoup.js"></script>
+	    <script type="text/javascript" src="javascripts/jsgamesoup/collisions.js"></script>
+	    <script type="text/javascript" src="javascripts/jsgamesoup/statemachine.js"></script>
+
+		<!--<script type="text/javascript" src="src/game.js"></script>
+
+	    <script type="text/javascript" src="src/model/plane.js"></script>
+	    <script type="text/javascript" src="src/model/smoke.js"></script>
+	    <script type="text/javascript" src="src/model/bullet.js"></script>
+	    <script type="text/javascript" src="src/model/controller.js"></script>
+
+	    <script type="text/javascript" src="src/collection/planes.js"></script>
+	    <script type="text/javascript" src="src/collection/bullets.js"></script>
+	    <script type="text/javascript" src="src/collection/controllers.js"></script>
+	    <script type="text/javascript" src="src/collection/pings.js"></script>
+
+	    <script type="text/javascript" src="src/view/plane_view.js"></script>
+	    <script type="text/javascript" src="src/view/smoke_view.js"></script>
+	    <script type="text/javascript" src="src/view/world_view.js"></script>
+	    <script type="text/javascript" src="src/view/bullet_view.js"></script>
+
+	    <script type="text/javascript" src="src/mixin/remote_controlled.js"></script>
+	    <script type="text/javascript" src="src/mixin/AI_controlled.js"></script>-->
+
+	    <script type="text/javascript" src="javascripts/combined.js"></script>
+
+		<style>
+			#container {
+				width : 1200px;
+				height : 650px;
+				margin-left : auto;
+				margin-right : auto;
+			}
+			body {
+				padding : 0px;
+				margin : 0px;
+			}
+
+			#instructions {
+				position : fixed;
+				top : 20px;
+				left : 200px;
+				font-weight : bold;
+				font-size : 25px;
+			}
+
+			span {
+				font-style : italic;
+				font-size : 36px;
+				font-weight : bold;
+				color : red;
+				font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+			}
+
+			#blue-health {
+				position : fixed;
+				top : 20px;
+				right : 20px;
+				color : blue;
+				font-size : 30px;
+			}
+
+			#red-health {
+				position : fixed;
+				top : 20px;
+				left : 20px;
+				color : red;
+				font-size : 30px;
+			}
+
+			#time-div {
+				position : fixed;
+				top : 30px;
+				right : 200px;
+				font-size : 25px;
+			}
+		</style>
+
+	</head>
+	<body>
+    	<div id="preloaded-images" style="display : none;">
+    		<img src="images/redplane.png" id="red-plane-image"/>
+    		<img src="images/blueplane.png" id="blue-plane-image"/>
+    		<img src="images/redplanewreck.png" id="red-wreck-plane-image"/>
+    		<img src="images/blueplanewreck.png" id="blue-wreck-plane-image"/>
+    		<img src="images/whitesmoke.png" id="white-smoke-image"/>
+    		<img src="images/blacksmoke.png" id="black-smoke-image"/>
+    	</div>
+		<div id="container">
+    	</div>
+
+    	<div id="instructions"><span>PlaneUp</span>: Use arrow keys to move and shift to shoot.</div>
+    	<div id="blue-health">100</div>
+    	<div id="red-health">100</div>
+    	<div id="time-div">Time(s) : <b id="time"></b></div>
+	</body>
+</html>
