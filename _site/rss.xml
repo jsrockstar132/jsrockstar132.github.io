@@ -6,8 +6,8 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 23 Apr 2015 16:43:01 +0530</pubDate>
-    <lastBuildDate>Thu, 23 Apr 2015 16:43:01 +0530</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2020 04:45:46 +0530</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2020 04:45:46 +0530</lastBuildDate>
 
     
     <item>
@@ -183,45 +183,45 @@
 
 &lt;h2 id=&quot;design-is-ongoing&quot;&gt;Design is ongoing&lt;/h2&gt;
 
-&lt;p&gt;I have found myself going back to the drawing board to come up with a new approach often, not only does this adds to the time but discarding previous code is not the most pleasant experience. &lt;/p&gt;
+&lt;p&gt;I have found myself going back to the drawing board to come up with a new approach often, not only does this adds to the time but discarding previous code is not the most pleasant experience.&lt;/p&gt;
 
 &lt;p&gt;The continuous feedback from various channels - data analytics, usage statistics and feature enhancements demands a cohesive effort to make refinements and tweaks to the design. The buildup of unforeseen changes in code often leads to increased development time specially when different teams have to be mobilised to work together.&lt;/p&gt;
 
-&lt;p&gt;It makes sense to design in the browser which reduces the friction between a design &amp;amp; prototype. Essentially, one can design in code. A prototyping process thus becomes essential where you can think freely and execute them as you go. &lt;/p&gt;
+&lt;p&gt;It makes sense to design in the browser which reduces the friction between a design &amp;amp; prototype. Essentially, one can design in code. A prototyping process thus becomes essential where you can think freely and execute them as you go.&lt;/p&gt;
 
 &lt;h2 id=&quot;wireframes-over-designs&quot;&gt;Wireframes over designs&lt;/h2&gt;
 
 &lt;p&gt;A project, feature, screen; regardless of the task at hand requires structure in content and the hierarchy in elements that will compose it. A Wireframes thus helps establish the preference order and its priority.&lt;/p&gt;
 
-&lt;p&gt;Designs change. Moreover, a design may include visual elements of style and aesthetics that are more prone to changes due to their subjective nature. Personal tastes and preferences of the people involved with the project also effects the final outcomes. &lt;/p&gt;
+&lt;p&gt;Designs change. Moreover, a design may include visual elements of style and aesthetics that are more prone to changes due to their subjective nature. Personal tastes and preferences of the people involved with the project also effects the final outcomes.&lt;/p&gt;
 
-&lt;p&gt;A Wireframe on the other hand conveys meaningful information unaffected by visual ornaments. &lt;/p&gt;
+&lt;p&gt;A Wireframe on the other hand conveys meaningful information unaffected by visual ornaments.&lt;/p&gt;
 
-&lt;p&gt;I’ve myself successfully followed this approach on both personal projects and at work. The result is encouraging. &lt;/p&gt;
+&lt;p&gt;I’ve myself successfully followed this approach on both personal projects and at work. The result is encouraging.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-approach-to-prototyping&quot;&gt;The approach to prototyping&lt;/h2&gt;
 
-&lt;p&gt;Web Applications can benefit immensely from prototyping. The HTML, CSS, JS is compiled on runtime using one of the various templating languages (for markup) and pre-processors (for CSS) and injected in your browsing as you proceed. &lt;/p&gt;
+&lt;p&gt;Web Applications can benefit immensely from prototyping. The HTML, CSS, JS is compiled on runtime using one of the various templating languages (for markup) and pre-processors (for CSS) and injected in your browsing as you proceed.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Create components for common widgets both in HTML and CSS.&lt;/li&gt;
-  &lt;li&gt;Use any client of server side templating (Twig, Liquid, Swig, EJB, Jade, Handlebars etc) to create modular and maintainable markup ready for production. &lt;/li&gt;
+  &lt;li&gt;Use any client of server side templating (Twig, Liquid, Swig, EJB, Jade, Handlebars etc) to create modular and maintainable markup ready for production.&lt;/li&gt;
   &lt;li&gt;Use any pre-processor (Sass, Less, Stylus etc) to compile your stylesheets&lt;/li&gt;
-  &lt;li&gt;Use API stubs with temporary JSON data for your components. &lt;/li&gt;
-  &lt;li&gt;Inject HTML/CSS/JS instantly as you code your designs ready with the required data without dummy placeholders. &lt;/li&gt;
+  &lt;li&gt;Use API stubs with temporary JSON data for your components.&lt;/li&gt;
+  &lt;li&gt;Inject HTML/CSS/JS instantly as you code your designs ready with the required data without dummy placeholders.&lt;/li&gt;
   &lt;li&gt;Continuous testing for every device with auto-refresh on desktop, mobile and tablets&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;starter-kit---use-mine&quot;&gt;Starter Kit - Use mine!&lt;/h2&gt;
 
-&lt;p&gt;I am hesitant to recommend any particular framework since every project is unique and the amount of time that goes into learning the framework negates the benefit. Sometimes customisation and extending the framework might need some more time investment of time. Documentation may be missing or incomplete. &lt;/p&gt;
+&lt;p&gt;I am hesitant to recommend any particular framework since every project is unique and the amount of time that goes into learning the framework negates the benefit. Sometimes customisation and extending the framework might need some more time investment of time. Documentation may be missing or incomplete.&lt;/p&gt;
 
-&lt;p&gt;The best ways to create a prototype is to use raw technologies and weave together a workable structure that works for you and your project. I recommend using Grunt to automate your workflow. &lt;/p&gt;
+&lt;p&gt;The best ways to create a prototype is to use raw technologies and weave together a workable structure that works for you and your project. I recommend using Grunt to automate your workflow.&lt;/p&gt;
 
 &lt;p&gt;I released my own &lt;a href=&quot;https://github.com/sachin/PrototypingOnSteroids&quot;&gt;Prototyping starter kit&lt;/a&gt; earlier, aptly named - &lt;a href=&quot;http://sachin.github.io/PrototypingOnSteroids/&quot;&gt;Prototyping on Steroids.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Feel free to use, distribute and modify it. I am keen to know how it benefits your prototyping process. 
-Any suggestions and fork requests are welcome! &lt;/p&gt;
+Any suggestions and fork requests are welcome!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The source is provided on Github. I am actively adding more features as I use and improve this for my own personal and side projects. I use the said workflow at work and for my side projects. If you encounter any bugs, please file a issue request on Github.&lt;/em&gt;&lt;/p&gt;
 
@@ -247,9 +247,9 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
 		  
         ]]> 
         
-        &lt;p&gt;I’ve been exploring &lt;a href=&quot;http://www.thrillapp.com/&quot;&gt;Thrill - the dating app&lt;/a&gt; for India and it’s been a rather interesting social experiment. I felt there was room for improvisation in the Version 1.0 of the app and made a mockup trying to better show the profile screen. &lt;/p&gt;
+        &lt;p&gt;I’ve been exploring &lt;a href=&quot;http://www.thrillapp.com/&quot;&gt;Thrill - the dating app&lt;/a&gt; for India and it’s been a rather interesting social experiment. I felt there was room for improvisation in the Version 1.0 of the app and made a mockup trying to better show the profile screen.&lt;/p&gt;
 
-&lt;p&gt;On a Saturday afternoon after having spent some 3 weeks with the application, I was without any potential “match”. I was quick to conclude that the &lt;strong&gt;User Experience&lt;/strong&gt; was the culprit standing between me and my potential date, undeterred I set out to improve the Profile View. &lt;/p&gt;
+&lt;p&gt;On a Saturday afternoon after having spent some 3 weeks with the application, I was without any potential “match”. I was quick to conclude that the &lt;strong&gt;User Experience&lt;/strong&gt; was the culprit standing between me and my potential date, undeterred I set out to improve the Profile View.&lt;/p&gt;
 
 &lt;h2 id=&quot;after-redesigning-profile-for-better-usability&quot;&gt;After redesigning profile for better Usability&lt;/h2&gt;
 
@@ -261,16 +261,16 @@ Any suggestions and fork requests are welcome! &lt;/p&gt;
   &lt;li&gt;Moved over the primary action items from the Menu over to the Profile Screen.&lt;/li&gt;
   &lt;li&gt;Added swipe functionality to the display picture to see more profile pictures.&lt;/li&gt;
   &lt;li&gt;Reused the space obtained from #2 to make the Location and Match Rating more prominent.&lt;/li&gt;
-  &lt;li&gt;Moved the Categories of similar interest up so they are discoverable. &lt;/li&gt;
+  &lt;li&gt;Moved the Categories of similar interest up so they are discoverable.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;The folks at Thrill were kind enough to share their feedback and appreciation and assured me they were already working on a Version 2.0 for the app and promised to launch a phenomenal new update.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/thrill_app/josh_thrill.jpg&quot; alt=&quot;Thrill Homescreen - NEW Design&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Since then Thrill has launched with a revamped design though radically different from how I had imagined it at that time. It is good to see continuous work being done in this space. &lt;/p&gt;
+&lt;p&gt;Since then Thrill has launched with a revamped design though radically different from how I had imagined it at that time. It is good to see continuous work being done in this space.&lt;/p&gt;
 
-&lt;p&gt;The Version 2.0 has been unsuccessful in redeeming me of my past sins and I can still be found spending Saturday afternoons trying to respond to phantom notifications from Thrill. It is disturbing to see your network carrier coming up with SMS notifications. &lt;/p&gt;
+&lt;p&gt;The Version 2.0 has been unsuccessful in redeeming me of my past sins and I can still be found spending Saturday afternoons trying to respond to phantom notifications from Thrill. It is disturbing to see your network carrier coming up with SMS notifications.&lt;/p&gt;
 
 &lt;p&gt;I am already working in stealth mode for a Version 3.0 sketch (Yes! Until next time … )&lt;/p&gt;
 
@@ -365,7 +365,7 @@ Here is preview of that referal email- &lt;/p&gt;
 
 &lt;p&gt;I had been preparing for 2 years for this lucky day. This job meant a lot to me and my family. We moved out from our small 2 room apartment to a large one and overcame the financial crunch which had been threre for many years.&lt;/p&gt;
 
-&lt;p&gt;It not just doubled my salary but this job brought the opportunity to work in india&#39;s leading consumer brand Paytm.com. A Company that is giving fierce competition in the market.&lt;/p&gt;
+&lt;p&gt;It not just doubled my salary but this job brought the opportunity to work in india's leading consumer brand Paytm.com. A Company that is giving fierce competition in the market.&lt;/p&gt;
 
 &lt;p&gt;I feel excited to work with brillient minds from all over the country. There is soo much to learn here, startup like environment, work time flexibitily, great mentors and exciting work.&lt;/p&gt;
 
@@ -375,13 +375,13 @@ The brand value is what that attracts people.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
 All in all, 2012 had been a fantastic year for me. Both my goals, to get the best job and to complete engineer in 4 years(cleared 9 out of 11 backs.. an achivement itself!), were accomplished.&lt;/p&gt;
 
-&lt;p&gt;Hence my new year&#39;s goal is to show gratitute to everyone I owe these accomplishments.&lt;/p&gt;
+&lt;p&gt;Hence my new year's goal is to show gratitute to everyone I owe these accomplishments.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h3&gt;I wish everyone a Very Happy New Year..&lt;/h3&gt;
 
-&lt;h3&gt;Here&#39;s to fantastic 2012 and even better 2013.. Cheers!!&lt;/h3&gt;
+&lt;h3&gt;Here's to fantastic 2012 and even better 2013.. Cheers!!&lt;/h3&gt;
 
 &lt;p&gt;&lt;br&gt;
 &lt;br&gt;&lt;/p&gt;

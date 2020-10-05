@@ -4,9 +4,9 @@
 	<meta charset="utf-8">
 
 <!-- START SEO Meta Tags -->
-<title>About Sachin | Web Developer - HTML5, CSS3 | UI/UX Designer | Responsive Web Design | Delhi, India</title>
-<meta name="description" content="Sachin Saluja is a front-end web designer from Delhi, India. He works on Responsive Web Design using HTML5 & CSS3 in addition to UX Design." />
-<meta name="keywords" content="Sachin Saluja, front-end Developer India, Responsive Design, Responsive Web India, Web Developer, Web Designer" />
+<title>Design and Prototype in the browser using Grunt and Livereload</title>
+<meta name="description" content="Design and Prototype using HTML, CSS, Sass, JSON with Grunt in your browser with style injection and live reload" />
+<meta name="keywords" content="HTML, CSS, Grunt, Sass, Livereload, Codekit, Prototype, Prototype in the browser, Design in the browser, Grunt with Livereload, HTML CSS Prototyping, Prototype with JSON and Grunt" />
 <meta name="robots" content="INDEX, FOLLOW" />
 <!-- END SEO Meta Tags -->
 
@@ -22,11 +22,15 @@
 <meta property="og:type" content="blog"/>
 
 
+<meta property="og:description" content="I share my approach to prototyping and designing in the browser. Read on to use my starter kit for your next project."/></p>
 
 
 
+	<meta property="og:image" content="/assets/design_code_stock.jpg"/>
 
-	<meta property="og:title" content="About"/>
+
+
+	<meta property="og:title" content="How I design in the browser and how you can too"/>
 
 <!-- END Open Graph Tags -->
 
@@ -75,45 +79,66 @@
 </div> <!-- [/topWrapper] -->
 
 
+	
+
+	<div class="fullimage" style="background-image:url('/assets/design_code_stock.jpg');  background-position: center; "  title="Prototype and Design" /></div>
+
+
+
 	<div class="wrapper">
 
-		 <h2 class="special-headline"><span>About</span></h2>  
-		
+		 <h2 class="special-headline"><span>How I design in the browser and how you can too</span></h2> 
+
 		<section class="content">
 
-			<section class="content">
+			<p>Writing markup to translate designs into code is a time consuming process. It is not uncommon to have the designs completed before coding even begins. This approach has served us well until now.</p>
 
-	<p>To keep things simple - I create websites. If web apps are your thing then sure - I am pretty good at that too! <br /><em>What I really do is design experiences for your customers so they can go ahead making the decision you'll love.</em></p>
+<h2 id="design-is-ongoing">Design is ongoing</h2>
 
-	<p>If you are curious, I suggest taking a moment out to browse through some of my <a href="/work">past work.</a></p>
+<p>I have found myself going back to the drawing board to come up with a new approach often, not only does this adds to the time but discarding previous code is not the most pleasant experience.</p>
 
-	<p>Some things that consume my time for a good measure : </p>
+<p>The continuous feedback from various channels - data analytics, usage statistics and feature enhancements demands a cohesive effort to make refinements and tweaks to the design. The buildup of unforeseen changes in code often leads to increased development time specially when different teams have to be mobilised to work together.</p>
 
-	<ul>
-		<li>beautiful design</li>
-		<li>writing markup that doesn't look like gospel</li>
-		<li>improving web apps</li>
-		<li>I am online if ( !sleeping )</li>
-		<li>eating if ( !online &amp;&amp; !sleeping )</li>
-		<li>working out if ( !eating &amp;&amp; !online &amp;&amp; !sleeping )<strong></strong></li>
-	</ul>
+<p>It makes sense to design in the browser which reduces the friction between a design &amp; prototype. Essentially, one can design in code. A prototyping process thus becomes essential where you can think freely and execute them as you go.</p>
 
-	<p><strong>&nbsp;I<br>
-	</strong></p>
-	<ul>
-	<li><em>make</em> web a better place</li>
-	<li><em><s>do</s> used to do</em> lots of WordPress stuff</li>
-	<li><em>develop</em> platform agnostic experiences</li>
-	<li><em>believe</em> <s>code</s> markup is Poetry</li>
-	</ul>
+<h2 id="wireframes-over-designs">Wireframes over designs</h2>
 
-	<p>I strongly encourage you to work with me. I am one of those rare bread of design unicorns who code their own designs. <br />It's best to <a href="/contact">email me</a>. I am usually prompt in replying back. </p>
+<p>A project, feature, screen; regardless of the task at hand requires structure in content and the hierarchy in elements that will compose it. A Wireframes thus helps establish the preference order and its priority.</p>
 
-	<p class="laziness">*This is a <em>living document</em>. The above stuff may change when author feels compelled due to internal or external forces. He must ward off laziness to make modifications required with time or due to change of interests. For you, it means – keep revisiting. One day, you’ll find what you’re looking for :) </p>
+<p>Designs change. Moreover, a design may include visual elements of style and aesthetics that are more prone to changes due to their subjective nature. Personal tastes and preferences of the people involved with the project also effects the final outcomes.</p>
+
+<p>A Wireframe on the other hand conveys meaningful information unaffected by visual ornaments.</p>
+
+<p>I’ve myself successfully followed this approach on both personal projects and at work. The result is encouraging.</p>
+
+<h2 id="the-approach-to-prototyping">The approach to prototyping</h2>
+
+<p>Web Applications can benefit immensely from prototyping. The HTML, CSS, JS is compiled on runtime using one of the various templating languages (for markup) and pre-processors (for CSS) and injected in your browsing as you proceed.</p>
+
+<ul>
+  <li>Create components for common widgets both in HTML and CSS.</li>
+  <li>Use any client of server side templating (Twig, Liquid, Swig, EJB, Jade, Handlebars etc) to create modular and maintainable markup ready for production.</li>
+  <li>Use any pre-processor (Sass, Less, Stylus etc) to compile your stylesheets</li>
+  <li>Use API stubs with temporary JSON data for your components.</li>
+  <li>Inject HTML/CSS/JS instantly as you code your designs ready with the required data without dummy placeholders.</li>
+  <li>Continuous testing for every device with auto-refresh on desktop, mobile and tablets</li>
+</ul>
+
+<h2 id="starter-kit---use-mine">Starter Kit - Use mine!</h2>
+
+<p>I am hesitant to recommend any particular framework since every project is unique and the amount of time that goes into learning the framework negates the benefit. Sometimes customisation and extending the framework might need some more time investment of time. Documentation may be missing or incomplete.</p>
+
+<p>The best ways to create a prototype is to use raw technologies and weave together a workable structure that works for you and your project. I recommend using Grunt to automate your workflow.</p>
+
+<p>I released my own <a href="https://github.com/sachin/PrototypingOnSteroids">Prototyping starter kit</a> earlier, aptly named - <a href="http://sachin.github.io/PrototypingOnSteroids/">Prototyping on Steroids.</a></p>
+
+<p>Feel free to use, distribute and modify it. I am keen to know how it benefits your prototyping process. 
+Any suggestions and fork requests are welcome!</p>
+
+<p><em>The source is provided on Github. I am actively adding more features as I use and improve this for my own personal and side projects. I use the said workflow at work and for my side projects. If you encounter any bugs, please file a issue request on Github.</em></p>
 
 
-</section>
-		
+
 		</section>
 
 			<div class="bottomWrapper">

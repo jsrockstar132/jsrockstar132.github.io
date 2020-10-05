@@ -73,7 +73,6 @@ img{
 .header__headings .tagline{
 	margin: 0;
 	font-weight: normal;
-	margin-left: 10px;
 	color: #F48149;
 	font-size: 20px;
 }
@@ -107,6 +106,8 @@ img{
 .profile_image{
 	border-radius: 100px;
 	max-width: 100%;
+	width: 150px;
+	margin-right: 20px;
 }
 
 .social-buttons{
@@ -419,6 +420,11 @@ footer p{
 .showcase__image{
 	float:left;
 	width:33.333%;
+}
+
+.showcase2__image{
+	float:left;
+	width:50%;
 }
 
 @media (min-width: 1180px){

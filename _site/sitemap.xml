@@ -42,7 +42,7 @@
     
     
     <url>
-        <loc>http:/404.html/</loc>
+        <loc>http:/404/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -53,7 +53,7 @@
     
     
     <url>
-        <loc>http:/</loc>
+        <loc>http:/about//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -64,7 +64,7 @@
     
     
     <url>
-        <loc>http:/about/</loc>
+        <loc>http:/blog//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -75,7 +75,7 @@
     
     
     <url>
-        <loc>http:/contact/</loc>
+        <loc>http:/work//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -86,7 +86,7 @@
     
     
     <url>
-        <loc>http:/work/</loc>
+        <loc>http:/contact//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -97,7 +97,7 @@
     
     
     <url>
-        <loc>http:/blog/</loc>
+        <loc>http://</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
