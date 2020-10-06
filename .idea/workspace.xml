@@ -17,8 +17,6 @@
       <change beforePath="$PROJECT_DIR$/_site/the-year-my-life-changed.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/the-year-my-life-changed.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/thrill-dating-app-redesign-concept.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/thrill-dating-app-redesign-concept.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/work/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +38,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601932523087</updated>
-      <workItem from="1601932525306" duration="6742000" />
+      <workItem from="1601932525306" duration="10102000" />
     </task>
     <servers />
   </component>

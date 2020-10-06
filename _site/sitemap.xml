@@ -53,6 +53,17 @@
     
     
     <url>
+        <loc>http:/projects//</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+
+    </url>
+    
+    
+    
+    
+    
+    <url>
         <loc>http:/about//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -86,7 +97,7 @@
     
     
     <url>
-        <loc>http:/contact//</loc>
+        <loc>http://</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -97,7 +108,7 @@
     
     
     <url>
-        <loc>http://</loc>
+        <loc>http:/contact//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
