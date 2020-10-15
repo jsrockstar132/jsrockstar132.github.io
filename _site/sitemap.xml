@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http:/nag-tibba/</loc>
+        <loc>http:http://localhost:4000/nag-tibba/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http:/notre-dame-de-paris/</loc>
+        <loc>http:http://localhost:4000/notre-dame-de-paris/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http:/design-in-the-browser-prototype-using-grunt/</loc>
+        <loc>http:http://localhost:4000/design-in-the-browser-prototype-using-grunt/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http:/thrill-dating-app-redesign-concept/</loc>
+        <loc>http:http://localhost:4000/thrill-dating-app-redesign-concept/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http:/the-year-my-life-changed/</loc>
+        <loc>http:http://localhost:4000/the-year-my-life-changed/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http:/one-year-at-adomado/</loc>
+        <loc>http:http://localhost:4000/one-year-at-adomado/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -42,18 +42,7 @@
     
     
     <url>
-        <loc>http:/404/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http:/projects//</loc>
+        <loc>http:http://localhost:4000/404/</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -64,7 +53,7 @@
     
     
     <url>
-        <loc>http:/about//</loc>
+        <loc>http:http://localhost:4000/projects//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -75,7 +64,7 @@
     
     
     <url>
-        <loc>http:/blog//</loc>
+        <loc>http:http://localhost:4000/about//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -86,7 +75,7 @@
     
     
     <url>
-        <loc>http:/work//</loc>
+        <loc>http:http://localhost:4000/blog//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -97,7 +86,7 @@
     
     
     <url>
-        <loc>http://</loc>
+        <loc>http:http://localhost:4000/work//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
@@ -108,7 +97,18 @@
     
     
     <url>
-        <loc>http:/contact//</loc>
+        <loc>http:http://localhost:4000//</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http:http://localhost:4000/contact//</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
 
